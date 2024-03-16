@@ -1,0 +1,14 @@
+{
+  "name": "typescript-template",
+  "version": "0.0.1",
+  "description": "A node.js project template using Typescript",
+  "keywords": [],
+  "author": "Destine U",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf node_modules"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
